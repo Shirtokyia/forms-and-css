@@ -12,6 +12,7 @@ html {
   }
   p {
     font-family: "Calibri Light";
+    text-align: center
   }
   input {
     box-sizing: border-box;
@@ -24,6 +25,6 @@ html {
   body {
     border: 2px black
   }
-  .center-label {
+  input {
     text-align: center;
   }
